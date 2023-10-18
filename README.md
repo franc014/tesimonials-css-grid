@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/franc014/another-css-grid-course
+- Solution URL: https://github.com/franc014/tesimonials-css-grid.git
 - Live Site URL: https://testimonials-grid-section-nine-sigma.vercel.app/
 
 ## My process
